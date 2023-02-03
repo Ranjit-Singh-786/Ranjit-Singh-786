@@ -4,13 +4,13 @@
 
 ## **ABOUT ME**
 
-- 🔭 I’m currently working as **Associate Data Scientist** at **iNeuron Intelligence Pvt. Ltd.**
+- 🔭 I’m currently working as **Data Scientist intern** at **iNeuron Intelligence Pvt. Ltd.**
 
-- 🌱 I’m currently working on **Machine Learnring, NLP, MLOps Tools (MLFLOW, DVC), PyTorch.**
+- 🌱 I’m currently working on **Machine Learnring, NLP, MLOps Tools (MLFLOW, DVC).**
 
-- 💻 Check my Projects and other Repos [HERE.](https://github.com/Shivan118)
+- 💻 Check my Projects and other Repos [HERE.](https://github.com/Ranjit-Singh-786?tab=repositories)
 
-- 👨‍💻 Completed **Google Data Analytics and Full Stack Data Science certificates.** 
+- 👨‍💻 Completed **Full Stack Data Science certificates.** 
 
 - ⚡ Fun fact is am **Ex-University level Sports Athlete and Ex-Startup owner.**
 
@@ -49,8 +49,6 @@
 
 ## **CONNECT WITH ME**:
 <p align="left">
-<a href = "https://www.linkedin.com/in/shivan-kumar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href = "https://www.instagram.com/engineer_bhaiya_yt/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href='https://www.instagram.com/engineer_bhaiya_yt/'>
+<a href = "https://www.linkedin.com/in/ranjit-singh-423a051a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br>
 </a>
