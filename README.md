@@ -20,8 +20,7 @@
  <img src="https://img.icons8.com/dusk/48/000000/css3.png" alt="css3"  width="20" height="20" />
 </p>
 
-
-
+ 
 ## **ABOUT ME**
 
 - 🔭 I’m currently working as **Data Scientist intern** at **iNeuron Intelligence Pvt. Ltd.**
@@ -64,6 +63,5 @@
 
 ## **CONNECT WITH ME**:
 <p align="left">
-<a href = "https://www.linkedin.com/in/ranjit-singh-423a051a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<br>
+<a href = "https://www.linkedin.com/in/ranjit-singh-423a051a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <p>MOb-No :-  +91-9759194985 </p><p>Email :-   smartengineer0786@gmail.com </p>
 </a>
