@@ -63,5 +63,5 @@
 
 ## **CONNECT WITH ME**:
 <p align="left">
-<a href = "https://www.linkedin.com/in/ranjit-singh-423a051a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <p>MOb-No :-  +91-9759194985 </p><p>Email :-   smartengineer0786@gmail.com </p>
+<a href = "https://www.linkedin.com/in/ranjit-singh-423a051a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <p>Mob-No :-  +91-9759194985 </p><p>Email :-   smartengineer0786@gmail.com </p>
 </a>
