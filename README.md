@@ -3,7 +3,10 @@
 <h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'm Ranjit Singh </h1>
 <p align="center">
 </p>
-<h3 align="center">🚩 A Data Scientist Enthusiast From India. 🚩
+<h3 align="center">🚩 A Data Scientist  From India. 🚩
+
+<p align="center">
+<h3 align="center">💕 ----->  DATA LOVER  <----- 💕
 
 <p align="center">
  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
