@@ -5,8 +5,7 @@
 </p>
 <h3 align="center">🚩 A Data Scientist  From India. 🚩
 
-<p align="center">
-<h3 align="center">💕 ----->  DATA LOVER  <----- 💕
+
 
 <p align="center">
  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
@@ -21,6 +20,9 @@
  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow"  width="20" height="20" /> 
  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cplusplus"  width="20" height="20" />
  <img src="https://img.icons8.com/dusk/48/000000/css3.png" alt="css3"  width="20" height="20" />
+ 
+ <h3 align="center">💕--->  DATA LOVER  <---💕
+  <h3 align="center">❣
 </p>
 
  
