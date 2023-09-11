@@ -28,7 +28,7 @@
  
 ## **ABOUT ME**
 
-- 🔭 I’m currently working as **Data Scientist intern** at **iNeuron Intelligence Pvt. Ltd.**
+- 🔭 I’m currently working as **Machine Learning Engineer** at **Upflairs.com Pvt. Ltd. jaipur Rajsthan**
 
 - 🌱 I’m currently working on **Machine Learnring, NLP, MLOps Tools (MLFLOW, DVC).**
 
