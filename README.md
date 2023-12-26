@@ -29,14 +29,16 @@
 ## **ABOUT ME**
 
 - 🔭 I’m currently working as **Machine Learning Engineer** at **Upflairs.com Pvt. Ltd. jaipur Rajsthan**
-
-- 🌱 I’m currently working on **Machine Learnring, NLP, MLOps Tools (MLFLOW, DVC).**
+  
+- ⚡ My specialaization in **Python , SQL , ML , DL , NLP , Computer Vision , Generative ai , and Big Data handling**
+    
+- 🌱 I’m currently working on **Machine Learnring, NLP, MLOps Tools (MLFLOW, DVC) , Generative ai and Large Language Models.**
 
 - 💻 Check my Projects and other Repos [HERE.](https://github.com/Ranjit-Singh-786?tab=repositories)
 
 - 👨‍💻 Completed **Full Stack Data Science certificates.** 
 
-- ⚡ My specialaization in **Python , SQL , ML ,DL ,NLP.**
+
 
 ## **LANGUAGES AND TOOLS**
 
