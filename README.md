@@ -28,15 +28,20 @@
  
 ## **ABOUT ME**
 
-- 🔭 I’m currently working as **Machine Learning Engineer** at **Upflairs.com Pvt. Ltd. jaipur Rajsthan**
+- 🔭 I’m currently working as **Machine Learning Engineer with NLP specialaization** at **Upflairs.com Pvt. Ltd. jaipur Rajasthan**
   
-- ⚡ My specialaization in **Python , SQL , ML , DL , NLP , Computer Vision , Generative ai , and Big Data handling**
+- ⚡ My specialaization in **Python ,Java , c/c++ , SQL , ML , DL , NLP , Computer Vision , Generative ai , and Big Data handling **
+  
+- ⚡ Dealing with Large language models, utilizing GenerativeAi tools & techniques , develop cutting edge applications.
+
+- 😎 Handling structured and non-structured data, and querying the data from Mysql and MongoDB , RDS
     
-- 🌱 I’m currently working on **Machine Learnring, NLP, MLOps Tools (MLFLOW, DVC) , Generative ai and Large Language Models.**
+- ✨ Worked AWS cloud and utilizes AWS services  **EC2 , ECR , RDS ,EBS , IAM , CodePipeline , S3 Bucket , sagemaker**
+
+- 😎 Providing Data Science and machine learning training on upflairs Pvt. Ltd. jaipur Rajasthan.
 
 - 💻 Check my Projects and other Repos [HERE.](https://github.com/Ranjit-Singh-786?tab=repositories)
 
-- 👨‍💻 Completed **Full Stack Data Science certificates.** 
 
 
 
