@@ -73,7 +73,15 @@
 </p>
 <br/>
 
+
+![](https://github-readme-stats.vercel.app/api?username=Ranjit-Singh-786&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ranjit-Singh-786&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjit-Singh-786&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ## **CONNECT WITH ME**:
 <p align="left">
 <a href = "https://www.linkedin.com/in/ranjit-singh-423a051a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/ranjitsinghdatascientist/)
 
