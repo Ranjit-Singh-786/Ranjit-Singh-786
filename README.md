@@ -1,4 +1,4 @@
-# Hey! Nice to see you.
+# Hey! Nice to see you ✨✨
 
 <h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'm Ranjit Singh </h1>
 <p align="center">
@@ -31,7 +31,7 @@
  
 ## **ABOUT ME**
 
-- 🔭 I’m currently working as **Machine Learning Engineer with NLP specialaization** at **Upflairs.com Pvt. Ltd. jaipur Rajasthan**
+- 🔭 I’m currently working as **Data Scientist Engineer** at **Upflairs.com Pvt. Ltd. jaipur Rajasthan**
   
 - ⚡ My specialaization in **Python ,Java , c/c++ , SQL , ML , DL , NLP , Computer Vision , Generative ai , and Big Data handling **
   
@@ -82,9 +82,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjit-Singh-786&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## **CONNECT WITH ME**:
-<p align="left">
-<a href = "https://www.linkedin.com/in/ranjit-singh-423a051a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/ranjitsinghdatascientist/)
+<a href="https://www.instagram.com/ranjitsinghdatascientist/" target="_blank"> 
+<a href="https://www.linkedin.com/in/ranjit-singh-423a051a6/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Connect">
+</a>
+<a href="mailto:ranjitsingh97591@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Connect me-blue?style=for-the-badge&logo=gmail" alt="Gmail Email">
+</a>
+
 
