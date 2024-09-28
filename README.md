@@ -87,7 +87,7 @@
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/ranjitsinghdatascientist/)
-<a href="https://www.instagram.com/ranj1t_s1n9h" target="_blank"> 
+<a href="https://www.instagram.com/ranj1t_s1n9h/" target="_blank"> 
 <a href="https://www.linkedin.com/in/ranjit-singh-423a051a6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Connect">
 </a>
