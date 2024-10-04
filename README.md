@@ -35,7 +35,7 @@
 
 - 🔭 I’m currently working as **Data Scientist Engineer** at **Upflairs.com Pvt. Ltd. jaipur Rajasthan**
   
-- ⚡ My specialaization in **Python ,Java , c/c++ , SQL , ML , DL , NLP , Computer Vision , Generative ai , and Big Data handling **
+- ⚡ My specialaization in **Python ,Java , c/c++ , SQL , ML , DL , NLP , Computer Vision , Generative ai , and Big Data handling**
   
 - ⚡ Dealing with **Large language models**, utilizing **GenerativeAi tools & techniques** , develop cutting edge applications.
 
