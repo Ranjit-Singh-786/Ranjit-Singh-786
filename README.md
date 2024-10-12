@@ -1,11 +1,10 @@
-# Hey! Nice to see you ✨✨<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ranjit-Singh-786&label=Profile%20views&color=0e75b6&style=flat" alt="Ranjit-Singh-786" /> </p>
+# Hey <img width="45" src="waving_hand.gif"> Nice to see you ✨✨<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ranjit-Singh-786&label=Profile%20views&color=0e75b6&style=flat" alt="Ranjit-Singh-786" /> </p>
 
+<img src="banner.png" alt="git"> 
 
-
-<h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'm Ranjit Singh </h1>
 <p align="center">
 </p>
-<h3 align="center">🚩 A Data Scientist  From India. 🚩
+<h3 align="center">🚩 Decoding the Future: Data Science and AI for the Next Generation 🚩
 
 
 
