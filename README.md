@@ -32,7 +32,9 @@
  
 ## **ABOUT ME**
 
-- 🔭 I’m currently working as **Data Scientist Engineer** at **Upflairs.com Pvt. Ltd. jaipur Rajasthan**
+- 🔭 I’m currently working as **Ai Engineer** at **SAG Pvt. Ltd. jaipur Rajasthan**
+ 
+- 🔭 Former **Data Scientist Engineer** at **Upflairs.com Pvt. Ltd. jaipur Rajasthan**
   
 - ⚡ My specialaization in **Python ,Java , c/c++ , SQL , ML , DL , NLP , Computer Vision , Generative ai , and Big Data handling**
   
@@ -40,7 +42,7 @@
 
 - 😎 Handling structured and non-structured data, and querying the data from Mysql and MongoDB , RDS
     
-- ✨ Worked AWS cloud and utilizes AWS services  **EC2 , ECR , RDS ,EBS , IAM , CodePipeline , S3 Bucket , sagemaker**
+- ✨ Worked AWS cloud and utilizes AWS services  **EC2 , ECR , RDS ,EBS , IAM , CodePipeline , S3 Bucket , sagemaker** **AzureAi Service**
 
 - 😎 **Providing Data Science and machine learning**  training on upflairs Pvt. Ltd. jaipur Rajasthan.
 
