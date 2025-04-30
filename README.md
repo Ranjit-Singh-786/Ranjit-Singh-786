@@ -32,13 +32,15 @@
  
 ## **ABOUT ME**
 
-- 🔭 I’m currently working as **Ai Engineer** at **SAG Pvt. Ltd. jaipur Rajasthan**
+- 🔭 I’m currently working as an **Ai Engineer** at **SAG Pvt. Ltd. jaipur Rajasthan**
  
-- 🔭 Former **Data Scientist Engineer** at **Upflairs.com Pvt. Ltd. jaipur Rajasthan**
+- 🔭 Former **Data Scientist Engineer** at **Upflairs Pvt. Ltd. jaipur Rajasthan**
   
-- ⚡ My specialaization in **Python ,Java , c/c++ , SQL , ML , DL , NLP , Computer Vision , Generative ai , and Big Data handling**
+- ⚡ My specialaization in **Python ,Java , c/c++ , SQL , ML , DL ,Agentic Ai, NLP , Computer Vision , Generative ai , and Big Data handling**
   
-- ⚡ Dealing with **Large language models**, utilizing **GenerativeAi tools & techniques** , develop cutting edge applications.
+- ⚡ Dealing with **Large language models**, utilizing **GenerativeAi tools & techniques** , **Agentic  Ai** develop cutting edge applications.
+
+- ⚡ Strong understanding of **Vision Language Models (VLM)** Expertise in **Computer Vision Technology** and **Natural Language Processing**.
 
 - 😎 Handling structured and non-structured data, and querying the data from Mysql and MongoDB , RDS
     
