@@ -32,7 +32,7 @@
  
 ## **ABOUT ME**
 
-- 🔭 I’m currently working as an **Ai Engineer** at **SAG Pvt. Ltd. jaipur Rajasthan**
+- 🔭 I’m currently working as an **Ai Engineer** at **SAG Infotech Pvt. Ltd. jaipur Rajasthan**
  
 - 🔭 Former **Data Scientist Engineer** at **Upflairs Pvt. Ltd. jaipur Rajasthan**
   
